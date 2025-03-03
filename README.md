@@ -1,4 +1,4 @@
 # HTML
 
 ## HTML Headings
-- [headings](html/html.heading)
+- [headings](HTML/html.headings)
